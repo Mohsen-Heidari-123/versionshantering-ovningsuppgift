@@ -68,5 +68,3 @@ Det var snabbt och lätt att bestämma oss för vem i gruppen ansvarade för vil
 ### ICON menu
 <a href="https://www.flaticon.com/free-icons/space" title="space icons">Space icons created by Freepik - Flaticon</a>
 
-
----
